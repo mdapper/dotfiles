@@ -98,6 +98,16 @@
 
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
-  }
+  },
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/*/**": true
+  },
+  "colorize.languages": [
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ]
 }
 ```
