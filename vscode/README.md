@@ -6,7 +6,7 @@
 - [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
-## Plugins
+## Extensions
 
 - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
